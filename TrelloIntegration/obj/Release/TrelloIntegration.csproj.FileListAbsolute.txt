@@ -1,0 +1,14 @@
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\TrelloIntegration.exe.config
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\TrelloIntegration.exe
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\TrelloIntegration.pdb
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\Newtonsoft.Json.dll
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\RestSharp.dll
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\TechTalk.JiraRestClient.dll
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\TrelloNet.dll
+C:\projeto\TrelloIntegration\TrelloIntegration\bin\Release\RestSharp.xml
+C:\projeto\TrelloIntegration\TrelloIntegration\obj\Release\TrelloIntegration.Form1.resources
+C:\projeto\TrelloIntegration\TrelloIntegration\obj\Release\TrelloIntegration.Form2.resources
+C:\projeto\TrelloIntegration\TrelloIntegration\obj\Release\TrelloIntegration.Properties.Resources.resources
+C:\projeto\TrelloIntegration\TrelloIntegration\obj\Release\TrelloIntegration.csproj.GenerateResource.Cache
+C:\projeto\TrelloIntegration\TrelloIntegration\obj\Release\TrelloIntegration.exe
+C:\projeto\TrelloIntegration\TrelloIntegration\obj\Release\TrelloIntegration.pdb
